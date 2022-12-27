@@ -9,14 +9,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on backedn projects with Django and Django REST Framework
 - 🌱 I’m currently learning embedded systems programming and IoT
 - 👯 I’m looking to collaborate on backend and fullstack projects
-<!--
-- 🤔 I’m looking for help with ...
--->
 - 💬 Ask me about backend development (I think), and basically anything about tech. I love to learn
 - 📫 How to reach me: Email: jesseosems123@gmail.com | IG: @noinspirationnoname |
 - 😄 Pronouns: He/Him
 <!--
 - ⚡ Fun fact: ...
+- 🤔 I’m looking for help with ...
 -->
 
 <p>Check out my Octo-Lang</p>
