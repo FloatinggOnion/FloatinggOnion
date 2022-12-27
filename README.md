@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on backedn projects with Django and Django REST Framework
 - 🌱 I’m currently learning embedded systems programming and IoT
 - 👯 I’m looking to collaborate on backend and fullstack projects
-
 <!--
 - 🤔 I’m looking for help with ...
 -->
@@ -19,3 +18,6 @@ Here are some ideas to get you started:
 <!--
 - ⚡ Fun fact: ...
 -->
+
+<p>Check out my Octo-Lang</p>
+<img src= "./my-octo-lang.png" width="400px"/>
