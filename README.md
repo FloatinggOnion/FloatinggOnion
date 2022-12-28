@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 
-[![FloatinggOnion's GitHub stats](https://github-readme-stats.vercel.app/api?username=FloatinggOnion)](https://github.com/anuraghazra/github-readme-stats)
+[![FloatinggOnion's GitHub stats](https://github-readme-stats.vercel.app/api?username=FloatinggOnion&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatinggOnion)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>Check out my Octo-Lang</p>
 <img src= "./my-octo-lang.png" width="400px"/>
