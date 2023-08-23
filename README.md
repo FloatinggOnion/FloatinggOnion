@@ -6,21 +6,15 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on backedn projects with Django and Django REST Framework
-- 🌱 I’m currently learning embedded systems programming and IoT
-- 👯 I’m looking to collaborate on backend and fullstack projects
-- 💬 Ask me about backend development (I think), and basically anything about tech. I love to learn
-- 📫 How to reach me: Email: jesseosems123@gmail.com | IG: @noinspirationnoname |
 - 😄 Pronouns: He/Him
+- 🔭 I’m currently working on backend projects with Django REST Framework, and FastAPI
+- 🌱 I’m currently learning deep learning and embedded systems programming
+- 👯 I’m looking to collaborate on fun challenging stuff
+- 💬 Ask me about backend development, and basically anything about tech. I love to learn
+- 📫 How to reach me: Email: jesseosems123@gmail.com | IG: @floatinggonion |
 <!--
 - ⚡ Fun fact: ...
 - 🤔 I’m looking for help with ...
 -->
 
 [![FloatinggOnion's GitHub stats](https://github-readme-stats.vercel.app/api?username=FloatinggOnion&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatinggOnion&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FloatinggOnion)](https://git.io/streak-stats)
-<!-- <p>Check out my Octo-Lang</p>
-<img src= "./my-octo-lang.png" width="400px"/> -->
