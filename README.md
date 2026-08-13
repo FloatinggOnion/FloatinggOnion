@@ -17,7 +17,7 @@ I do some interpretability and alignment studies too, and try to write on my [pe
 
 ---
 
-- 📫 How to reach me: Email: jesseosems123@gmail.com | [LinkedIn](https://linkedin.com/in/jp-osemeke) | X: [@floatinggonion](https://x.com/floatinggonion)
+How to reach me: Email: jesseosems123@gmail.com | [LinkedIn](https://linkedin.com/in/jp-osemeke) | X: [@floatinggonion](https://x.com/floatinggonion)
 
 <!--
 - ⚡ Fun fact: ...
