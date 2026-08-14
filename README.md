@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on fun challenging stuff
 - 💬 Ask me about backend development, and basically anything about tech. I love to learn
 -->
-I'm Jesse-Paul Osemeke, a machine learning engineer currently dreaming about multilingual NLP, ML systems, and data-efficient architectures (I think there's more to ML than transformer hype). I'm currently diving deep into model compression, inference, and voice models.
+I'm Jesse-Paul Osemeke, a machine learning engineer currently dreaming about multilingual NLP, ML systems, and data-efficient architectures (I think there's more to ML than transformer hype). I'm currently diving deep into model compression & inference, voice models, and [some] biology.
 
 I do some interpretability and alignment studies too, and try to write on my [personal blog](https://jesse-paul.com/blog)
 
